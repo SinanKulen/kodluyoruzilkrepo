@@ -20,5 +20,7 @@ code .
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için konu açınız.
 
-#License
+# License
 [MIT](https://github.com/SinanKulen/kodluyoruzilkrepo/blob/main/LICENSE)
+
+- 
