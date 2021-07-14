@@ -22,5 +22,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License
 [MIT](https://github.com/SinanKulen/kodluyoruzilkrepo/blob/main/LICENSE)
-
-- 
